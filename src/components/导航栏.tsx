@@ -27,7 +27,7 @@ export function 导航栏() {
               <span className="text-2xl">📦</span>
             </div>
             <span className="text-xl font-semibold text-md3-on-surface">
-              res-qichen
+              七辰资源库
             </span>
           </Link>
 

@@ -31,7 +31,7 @@ export function 下载页面() {
   }
 
   return (
-    <div className="min-h-screen bg-md3-background">
+    <div className="min-h-screen bg-md3-background pb-16">
       <导航栏 />
 
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -188,10 +188,11 @@ export function 下载页面() {
         </div>
       </main>
 
-      <footer className="bg-md3-surface-variant border-t border-md3-outline-variant mt-16">
-        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {/* 页脚 - 固定在屏幕底部 */}
+      <footer className="fixed bottom-0 left-0 right-0 bg-md3-surface-variant border-t border-md3-outline-variant">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="text-center text-md3-on-surface-variant">
-            <p className="text-sm">
+            <p className="text-xs">
               所有下载链接均来自软件官方网站
             </p>
           </div>

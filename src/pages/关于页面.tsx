@@ -11,7 +11,7 @@ export function 关于页面() {
   }, [])
 
   return (
-    <div className={`min-h-screen bg-md3-background transition-opacity duration-500 ${已加载 ? 'opacity-100' : 'opacity-0'}`}>
+    <div className={`min-h-screen bg-md3-background transition-opacity duration-500 ${已加载 ? 'opacity-100' : 'opacity-0'} pb-16`}>
       <导航栏 />
 
       <main className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -126,16 +126,18 @@ export function 关于页面() {
             </a>
           </section>
         </div>
+      </main>
 
-        {/* 页脚 */}
-        <footer className="bg-md3-surface-variant border-t border-md3-outline-variant mt-16 py-8">
+      {/* 页脚 - 固定在屏幕底部 */}
+      <footer className="fixed bottom-0 left-0 right-0 bg-md3-surface-variant border-t border-md3-outline-variant">
+        <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="text-center text-md3-on-surface-variant">
-            <p className="text-sm">
+            <p className="text-xs">
               © 2026 RES-QICHEN. All rights reserved.
             </p>
           </div>
-        </footer>
-      </main>
+        </div>
+      </footer>
 
       <style>{`
         @keyframes fadeInDown {

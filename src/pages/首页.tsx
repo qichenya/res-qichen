@@ -44,7 +44,7 @@ export function 首页() {
   }
 
   return (
-    <div className={`min-h-screen transition-opacity duration-500 ${已加载 ? 'opacity-100' : 'opacity-0'}`}>
+    <div className={`min-h-screen transition-opacity duration-500 ${已加载 ? 'opacity-100' : 'opacity-0'} pb-16`}>
       <导航栏 />
       
       <搜索区域 on搜索={处理搜索} />
@@ -105,15 +105,12 @@ export function 首页() {
         )}
       </main>
 
-      {/* 页脚 */}
-      <footer className="bg-md3-surface-variant border-t border-md3-outline-variant mt-16">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      {/* 页脚 - 固定在屏幕底部 */}
+      <footer className="fixed bottom-0 left-0 right-0 bg-md3-surface-variant border-t border-md3-outline-variant">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
           <div className="text-center text-md3-on-surface-variant">
-            <p className="text-sm">
-              res-qichen - 精选优质软件资源
-            </p>
-            <p className="text-xs mt-2">
-              © 2024 res-qichen. All rights reserved.
+            <p className="text-xs">
+              © 2026 七辰资源库. All rights reserved.
             </p>
           </div>
         </div>
