@@ -1,0 +1,26 @@
+{
+  "id": "名字",
+  "name": "主名字",
+  "description": "介绍",
+  "icon": "图标",
+  "category": "类别",
+  "tags": ["标签"],
+  "screenshots": [
+    "介绍图片"
+  ],
+  "features": [
+    "标签"
+  ],
+  "version": "版本",
+  "updatedAt": "最新更新时间",
+  "developer": "版权归属",
+  "website": "网站地址",
+  "downloadLinks": [
+    {
+      "platform": "Windows",
+      "icon": "🪟",
+      "url": "下载地址",
+      "description": "Windows 桌面应用"
+    }
+  ]
+}
