@@ -1,0 +1,44 @@
+{
+  "id": "Default",
+  "name": "Default",
+  "description": "这是一个默认示例",
+  "icon": "https://tse4.mm.bing.net/th/id/OIP.7HeShX6xNmk7rtCaAe743AHaG6?r=0&cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+  "category": "其他",
+  "tags": ["笨猫", "杂猫", "涩猫"],
+  "screenshots": [
+    "https://tse4.mm.bing.net/th/id/OIP.0G94nZLSZIRM8K-x6TxpjwHaFH?r=0&cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3",
+    "https://tse4.mm.bing.net/th/id/OIP.AtrBNz5lTMzSk-HXi_sQCgHaEK?r=0&cb=thfvnextfalcon&rs=1&pid=ImgDetMain&o=7&rm=3"
+  ],
+  "features": [
+    "涩涩",
+    "笨杂鱼",
+    "Nya~",
+    "笨蛋支持",
+    "发情的baka",
+    "实时视奸"
+  ],
+  "version": "0721",
+  "updatedAt": "2026-05-27",
+  "developer": "Qichen Inc.",
+  "website": "https://qichen.ink",
+  "downloadLinks": [
+    {
+      "platform": "Windows",
+      "icon": "🪟",
+      "url": "https://qichen.ink",
+      "description": "Windows 桌面应用"
+    },
+    {
+      "platform": "macOS",
+      "icon": "🍎",
+      "url": "https://qichen.ink",
+      "description": "macOS 桌面应用"
+    },
+    {
+      "platform": "Android",
+      "icon": "🤖",
+      "url": "https://qichen.ink",
+      "description": "Android 应用"
+    }
+  ]
+}
