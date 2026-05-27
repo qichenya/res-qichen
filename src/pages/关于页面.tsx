@@ -116,7 +116,7 @@ export function 关于页面() {
               如果您有任何建议或问题，欢迎与我们联系
             </p>
             <a 
-              href="mailto:contact@softwarerepo.example.com"
+              href="mailto:qichenstudio@qq.com"
               className="inline-flex items-center px-6 py-3 rounded-full bg-md3-primary text-md3-on-primary hover:opacity-90 transition-all duration-200 font-medium"
             >
               <svg className="w-5 h-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
@@ -131,7 +131,7 @@ export function 关于页面() {
         <footer className="bg-md3-surface-variant border-t border-md3-outline-variant mt-16 py-8">
           <div className="text-center text-md3-on-surface-variant">
             <p className="text-sm">
-              © 2024 RES-QICHEN. All rights reserved.
+              © 2026 RES-QICHEN. All rights reserved.
             </p>
           </div>
         </footer>
