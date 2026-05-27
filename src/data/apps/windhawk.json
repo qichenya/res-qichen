@@ -3,7 +3,7 @@
   "name": "Windhawk",
   "description": "Windhawk是一款可以让你优化Windows11体验的软件，它采用了框架+模块的方式来让用户调整系统的功能，你可以自由下载需要的模块，高级用户也可以制作自己的模块并分享。",
   "icon": "https://windhawk.net/logo-white.07a58d8408c12a46b52785c91e5f2e9e.svg",
-  "category": "其他",
+  "category": "系统工具",
   "tags": ["系统优化"],
   "screenshots": [
     "https://windhawk.net/windhawk-screenshot-main.ce1335d0ed118b56.png"
