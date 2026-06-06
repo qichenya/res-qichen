@@ -2,11 +2,11 @@
   "id": "windhawk",
   "name": "Windhawk",
   "description": "Windhawk是一款可以让你优化Windows11体验的软件，它采用了框架+模块的方式来让用户调整系统的功能，你可以自由下载需要的模块，高级用户也可以制作自己的模块并分享。",
-  "icon": "https://windhawk.net/logo-white.07a58d8408c12a46b52785c91e5f2e9e.svg",
+  "icon": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/icons/logo-white.07a58d8408c12a46b52785c91e5f2e9e.svg",
   "category": "系统工具",
   "tags": ["系统优化"],
   "screenshots": [
-    "https://windhawk.net/windhawk-screenshot-main.ce1335d0ed118b56.png"
+    "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/photos/windhawk-screenshot-main.ce1335d0ed118b56.png"
   ],
   "features": [
     "稳健",
@@ -21,7 +21,7 @@
     {
       "platform": "Windows",
       "icon": "🪟",
-      "url": "https://release-assets.githubusercontent.com/github-production-release-asset/448262991/fd1ac87b-9c0b-4963-acb3-e71513510816?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-05-27T12%3A07%3A39Z&rscd=attachment%3B+filename%3Dwindhawk_setup.exe&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-05-27T11%3A07%3A39Z&ske=2026-05-27T12%3A07%3A39Z&sks=b&skv=2018-11-09&sig=Olvin7hxxB8D3az5Wd2zNreSiKrShhljujR%2BEnu6ZSw%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc3OTg4MjE5NSwibmJmIjoxNzc5ODgwMzk1LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.4MIxsHPeKiZxLnj76VpSo5rRTh5M8LKOjeOhloZ7_WI&response-content-disposition=attachment%3B%20filename%3Dwindhawk_setup.exe&response-content-type=application%2Foctet-stream",
+      "url": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/apps/windhawk_setup.exe",
       "description": "Windows 桌面应用"
     }
   ]

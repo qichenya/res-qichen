@@ -1,0 +1,24 @@
+{
+  "id": "微软常用运行库合集",
+  "name": "微软常用运行库合集",
+  "description": "微软常用运行库合集可以修复电脑运行库缺失的问题",
+  "icon": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/icons/10-1768701756.jpg",
+  "category": "系统工具",
+  "tags": ["系统优化"],
+  "features": [
+    "国产软件",
+    "免费软件",
+    "系统增强"
+  ],
+  "version": "v2026.04.16",
+  "updatedAt": "2026.04.16",
+  "website": "https://www.jb51.net/softs/607905.html",
+  "downloadLinks": [
+    {
+      "platform": "Windows",
+      "icon": "🪟",
+      "url": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/apps/%E5%BE%AE%E8%BD%AF%E5%B8%B8%E7%94%A8%E8%BF%90%E8%A1%8C%E5%BA%93%E5%90%88%E9%9B%86%202026.04.16.exe",
+      "description": "Windows 桌面应用"
+    }
+  ]
+}
