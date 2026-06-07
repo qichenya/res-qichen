@@ -1,0 +1,26 @@
+{
+  "id": "NCM文件转换",
+  "name": "NCM文件批量转换器 1.0",
+  "description": "《NCM文件批量转换器 1.0》是一款网易云ncm格式转换器，这款软件可以将网易云音乐中加密的NCM格式转化为可以正常播放的mp3格式，软件内拥有非常丰富的功能，操作也很简单，是一款非常不错的软件，感兴趣的小伙伴快来欢迎来下载哟！",
+  "icon": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/icons/12343214321.png",
+  "category": "其他",
+  "tags": ["媒体文件破解"],
+  "screenshots": [
+    "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/photos/1645583531_646864.jpg"
+  ],
+  "features": [
+    "简中"
+  ],
+  "version": "1.0",
+  "updatedAt": "2026-05-15",
+  "developer": "3DMGAME",
+  "website": "https://soft.3dmgame.com/down/213406.html",
+  "downloadLinks": [
+    {
+      "platform": "Windows",
+      "icon": "🪟",
+      "url": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/apps/NCM%E6%96%87%E4%BB%B6%E8%BD%AC%E6%8D%A2.exe",
+      "description": "Windows 桌面应用"
+    }
+  ]
+}
