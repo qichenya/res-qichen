@@ -1,0 +1,29 @@
+{
+  "id": "bilibilis",
+  "name": "BiliBilis",
+  "description": "Bilibili视频下载工具",
+  "icon": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/icons/peCdpfe.png",
+  "category": "其他",
+  "tags": ["媒体文件破解"],
+  "screenshots": [
+    ""
+  ],
+  "features": [
+    "国产软件",
+    "免费软件",
+    "开源软件",
+    "直接搬运"
+  ],
+  "version": "3.1.0",
+  "updatedAt": "无限期停止更新",
+  "developer": "开源社区",
+  "website": "https://github.com/1250422131/bilibilias",
+  "downloadLinks": [
+    {
+      "platform": "Android",
+      "icon": "📱",
+      "url": "https://pub-4791944ae1234f4989a51ba9ac401d99.r2.dev/apps/BILIBILIAS_3.1.0.apk",
+      "description": "Android 手机应用"
+    }
+  ]
+}
